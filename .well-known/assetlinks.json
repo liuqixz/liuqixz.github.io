@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.mufg.tr.intb.softtoken",
+      "sha256_cert_fingerprints": [
+        "E2:03:1E:7D:C7:0A:F2:A8:58:A1:1C:55:89:EC:82:04:A5:07:99:BB:B6:71:B2:83:B1:32:5D:8B:6A:9A:DD:1F"
+      ]
+    }
+  }
+]
