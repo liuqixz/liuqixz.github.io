@@ -1,5 +1,8 @@
 {
     "webcredentials": {
-        "apps": ["SRSK58FA7K.jp.mufg.tr.intb.SoftToken.a1bc"]
+        "apps": [
+            "SRSK58FA7K.jp.mufg.tr.intb.SoftToken.a1bc",
+            "SRSK58FA7K.com.example.apple-samplecode.ShinySRSK58FA7K"
+        ]
     }
 }
